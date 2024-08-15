@@ -12,7 +12,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("F:\\login_form_template\\img.jpg") no-repeat;
+    background: url("F:\\login_form_template\\wp4575207-4k-galaxy-wallpapers.jpg") no-repeat center center;
+    background-size: 100%;
 }
 .wrapper{
     width: 420px;
